@@ -1,0 +1,11 @@
+@media screen and (max-width: 750px){
+    .config{
+        display: flex;
+        flex-direction: row;
+    }
+    .cartao{
+        margin: auto;
+        margin-top: 15px;
+    }
+
+    }

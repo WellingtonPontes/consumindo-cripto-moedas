@@ -1,0 +1,14 @@
+.body{
+    background-color: #313C47;
+}
+.config{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.card{
+    color: #313C47;
+    background-color:#E9ECEF;
+}
